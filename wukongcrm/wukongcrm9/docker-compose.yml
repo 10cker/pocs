@@ -1,0 +1,6 @@
+version: '2'
+services:
+ wukongcrm9:
+   image: 10cker/wukongcrm9
+   ports:
+    - "7001:80"
