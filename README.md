@@ -1,2 +1,2 @@
 # pocs
-pics and docker
+pocs and docker
