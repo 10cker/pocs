@@ -1,0 +1,6 @@
+version: '2'
+services:
+ cltphp-v5.5.3:
+   image: 10cker/cltphp:v5.5.3
+   ports:
+    - "7002:80"
